@@ -12,7 +12,6 @@
   "repository": "https://github.com/starkgang/FridayUserbot",
   "website": "starkgang.ml",
   "success_url": "t.me/FridayOT",
-  "stack": "container",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
